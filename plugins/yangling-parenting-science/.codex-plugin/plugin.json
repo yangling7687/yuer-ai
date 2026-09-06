@@ -1,0 +1,18 @@
+{
+  "name": "yangling-parenting-science",
+  "version": "0.1.0",
+  "description": "育儿文案四型判定与逐闸 Seedance 短视频创作插件",
+  "author": {
+    "name": "杨铃"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "杨铃育儿科普",
+    "shortDescription": "判定育儿文案类型，逐闸制作剧情短视频",
+    "longDescription": "根据文案落点判定防骗指南型、糖葫芦型、不扫兴父母型或国学育儿型，并在用户逐步确认后生成脚本、分镜、Seedance 提示词和发布物料。",
+    "developerName": "杨铃",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请接收我的育儿文案，先判定文案类型并停下来等待确认，再调用对应编剧逐闸制作。"
+  }
+}
