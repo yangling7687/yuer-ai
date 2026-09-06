@@ -1,0 +1,4 @@
+interface:
+  display_name: "杨铃育儿科普"
+  short_description: "判定育儿文案类型，逐闸生成脚本、分镜和 Seedance 提示词"
+  default_prompt: "请根据我提供的育儿文案先判定类型，等待我确认后再逐闸制作。"
